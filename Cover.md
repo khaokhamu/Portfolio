@@ -3,7 +3,7 @@
   <a href="Cover.md">🏠 Home</a> •
   <a href="Profile.md">👤 Profile</a> •
   <a href="Research_Activities.md">🔬 Research</a> •
-  <a href="[https://instagram.com/khaokhamu_](https://www.instagram.com/learnwanranid/)">📷 Instagram</a>
+  <a href="https://www.instagram.com/learnwanranid/">📷 Instagram</a>
 </p>
 
 <hr>
