@@ -25,8 +25,9 @@ Interested in:
 
 ## 🏆 Awards
 
-- Mathiphic National Round
-- University Competitions
+- Mathiphic National Round Gold , Bronze medal at KMITL 
+- Outstanding Award Research about Geopolymer 
+- Math University Competitions PSU , Chula , RMUTT 
 - Academic Achievements
 
 ## 📸 Photography
@@ -37,10 +38,10 @@ Interested in:
 
 ## 💻 Skills
 
-- Python
-- MATLAB
-- AutoCAD
-- LaTeX
+- Python , C++
+- Blender , Revit , AutoCAD
+- Simscale
+- Lightroom Classic
 
 ## 📫 Contact
 
