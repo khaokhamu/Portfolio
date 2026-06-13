@@ -1,12 +1,7 @@
-# Portfolio Thananan
-Portfolio highschool for Civil Engneering KMUTT
-
-<img src="images/ปก.png" width="800">
-
 # 👋 THANANAN AMDAENGPIN
 
 <p align="center">
-  <img src="images/profile.jpg" width="220">
+  <img src="images/ปก.png" width="800">
 </p>
 
 ### High School Student | Civil Engineering Aspirant
