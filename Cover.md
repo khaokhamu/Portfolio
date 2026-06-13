@@ -1,11 +1,8 @@
 # 👋 THANANAN AMDAENGPIN
 <p align="center">
-  <a href="README.md">🏠 Home</a> •
+  <a href="Cover.md">🏠 Home</a> •
   <a href="Profile.md">👤 Profile</a> •
-  <a href="Research.md">🔬 Research</a> •
-  <a href="Awards.md">🏆 Awards</a> •
-  <a href="Photography.md">📷 Photography</a> •
-  <a href="Contact.md">📞 Contact</a>
+  <a href="Research_Activities.md">🔬 Research</a> •
 </p>
 
 <hr>
